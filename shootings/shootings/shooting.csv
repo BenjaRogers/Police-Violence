@@ -1,0 +1,51 @@
+,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,Address,Coordinates,Latitude,Longitude
+0,3,Tim Elliot,2015-01-02,shot,gun,53.0,M,A,Shelton,WA,True,attack,Not fleeing,False,"Shelton, WA, USA","Shelton, Washington",47.21248000000003,-123.10564999999997
+1,4,Lewis Lee Lembke,2015-01-02,shot,gun,47.0,M,W,Aloha,OR,False,attack,Not fleeing,False,"Aloha, OR, USA","Aloha, Oregon",45.49409000000003,-122.86757999999998
+2,5,John Paul Quintero,2015-01-03,shot and Tasered,unarmed,23.0,M,H,Wichita,KS,False,other,Not fleeing,False,"Wichita, KS, USA","Wichita, Kansas",37.68698000000006,-97.33557999999994
+3,8,Matthew Hoffman,2015-01-04,shot,toy weapon,32.0,M,W,San Francisco,CA,True,attack,Not fleeing,False,"San Francisco, CA, USA","San Francisco, California",37.777120000000025,-122.41963999999996
+4,9,Michael Rodriguez,2015-01-04,shot,nail gun,39.0,M,H,Evans,CO,False,attack,Not fleeing,False,"Evans, CO, USA","Evans, Colorado",40.37739000000005,-104.69691999999998
+5,11,Kenneth Joe Brown,2015-01-04,shot,gun,18.0,M,W,Guthrie,OK,False,attack,Not fleeing,False,"Guthrie, OK, USA","Guthrie, Oklahoma",35.88012000000003,-97.42301999999995
+6,13,Kenneth Arnold Buck,2015-01-05,shot,gun,22.0,M,H,Chandler,AZ,False,attack,Car,False,"Chandler, AZ, USA","Chandler, Arizona",33.30338000000006,-111.84082999999998
+7,15,Brock Nichols,2015-01-06,shot,gun,35.0,M,W,Assaria,KS,False,attack,Not fleeing,False,"Assaria, KS, USA","Assaria, Kansas",38.68168000000003,-97.60362999999995
+8,16,Autumn Steele,2015-01-06,shot,unarmed,34.0,F,W,Burlington,IA,False,other,Not fleeing,True,"Burlington, IA, USA","Burlington, Iowa",40.812050000000056,-91.10072999999994
+9,17,Leslie Sapp III,2015-01-06,shot,toy weapon,47.0,M,B,Knoxville,PA,False,attack,Not fleeing,False,"Knoxville, PA, USA","Knoxville, Pennsylvania",41.957460000000026,-77.44104999999996
+10,19,Patrick Wetter,2015-01-06,shot and Tasered,knife,25.0,M,W,Stockton,CA,False,attack,Not fleeing,False,"Stockton, CA, USA","Stockton, California",37.953730000000064,-121.29045999999994
+11,21,Ron Sneed,2015-01-07,shot,gun,31.0,M,B,Freeport,TX,False,attack,Not fleeing,False,"Freeport, TX, USA","Freeport, Texas",28.949600000000032,-95.34434999999996
+12,22,Hashim Hanif Ibn Abdul-Rasheed,2015-01-07,shot,knife,41.0,M,B,Columbus,OH,True,other,Not fleeing,False,"Columbus, OH, USA","Columbus, Ohio",39.96199000000007,-83.00274999999993
+13,25,Nicholas Ryan Brickman,2015-01-07,shot,gun,30.0,M,W,Des Moines,IA,False,attack,Car,False,"Des Moines, IA, USA","Des Moines, Iowa",41.58981000000006,-93.61537999999996
+14,27,Omarr Julian Maximillian Jackson,2015-01-07,shot,gun,37.0,M,B,New Orleans,LA,False,attack,Foot,True,"New Orleans, LA, USA","New Orleans, Louisiana",29.953700000000026,-90.07774999999998
+15,29,Loren Simpson,2015-01-08,shot,,28.0,M,W,Huntley,MT,False,undetermined,Not fleeing,False,"Huntley, MT, USA","Huntley, Montana",45.89772000000005,-108.30554999999998
+16,32,James Dudley Barker,2015-01-08,shot,shovel,42.0,M,W,Salt Lake City,UT,False,attack,Not fleeing,True,"Salt Lake City, UT, USA","Salt Lake City, Utah",40.76031000000006,-111.88821999999999
+17,36,Artago Damon Howard,2015-01-08,shot,unarmed,36.0,M,B,Strong,AR,False,attack,Not fleeing,False,"Strong, AR, USA","Strong, Arkansas",33.11076000000003,-92.35755999999998
+18,37,Thomas Hamby,2015-01-08,shot,gun,49.0,M,W,Syracuse,UT,False,attack,Not fleeing,True,"Syracuse, UT, USA","Syracuse, Utah",41.089090000000056,-112.06460999999996
+19,38,Jimmy Foreman,2015-01-09,shot,gun,71.0,M,W,England,AR,False,attack,Not fleeing,False,"England, AR, USA","England, Arkansas",34.54326000000003,-91.97050999999999
+20,325,Andy Martinez,2015-01-09,shot,gun,33.0,M,H,El Paso,TX,False,attack,Not fleeing,False,"El Paso, TX, USA","El Paso, Texas",31.759160000000065,-106.48748999999998
+21,42,Tommy Smith,2015-01-11,shot,gun,39.0,M,W,Arcola,IL,True,attack,Not fleeing,False,"Arcola, IL, USA","Arcola, Illinois",39.68321000000003,-88.30919999999998
+22,43,Brian  Barbosa,2015-01-11,shot,gun,23.0,M,H,South Gate,CA,False,attack,Not fleeing,False,"South Gate, CA, USA","South Gate, California",33.95722000000006,-118.20562999999999
+23,45,Salvador Figueroa,2015-01-11,shot and Tasered,gun,29.0,M,H,North Las Vegas,NV,False,attack,Foot,False,"North Las Vegas, NV, USA","North Las Vegas, Nevada",36.20071000000007,-115.12224999999995
+24,46,John Edward O'Keefe,2015-01-13,shot,gun,34.0,M,W,Albuquerque,NM,False,attack,Foot,True,"Albuquerque, NM, USA","Albuquerque, New Mexico",35.08423000000005,-106.64904999999999
+25,48,Richard McClendon,2015-01-13,shot,knife,43.0,M,W,Jourdanton,TX,True,other,Not fleeing,False,"Jourdanton, TX, USA","Jourdanton, Texas",28.918790000000058,-98.54560999999995
+26,49,Marcus Golden,2015-01-14,shot,,24.0,M,B,St. Paul,MN,False,attack,Not fleeing,False,"St. Paul, MN, USA","St Paul, Minnesota",44.94339000000008,-93.09647999999999
+27,50,Michael Goebel,2015-01-14,shot,,29.0,M,W,Franklin County,MO,False,attack,Not fleeing,False,"Franklin County, MO, USA","Franklin County, Missouri",38.40999611700005,-91.07500134799994
+28,51,Mario Jordan,2015-01-14,shot,gun,34.0,M,B,Chesapeake,VA,True,attack,Not fleeing,False,"Chesapeake, VA, USA","Chesapeake, Virginia",36.71428000000003,-76.24778999999995
+29,52,Talbot Schroeder,2015-01-14,shot,knife,75.0,M,W,Old Bridge,NJ,False,attack,Not fleeing,False,"Old Bridge, NJ, USA","Old Bridge, New Jersey",40.41483000000005,-74.36542999999995
+30,54,Robert Edwards,2015-01-14,shot,gun,68.0,M,W,Lake Jackson,TX,False,attack,Not fleeing,False,"Lake Jackson, TX, USA","Lake Jackson, Texas",29.03436000000005,-95.44629999999995
+31,55,Jeffrey R. Nielson,2015-01-14,shot,knife,34.0,M,W,Draper,UT,False,attack,Not fleeing,True,"Draper, UT, USA","Draper, Utah",40.52471000000003,-111.86627999999996
+32,56,Donte Sowell,2015-01-15,shot,gun,27.0,M,B,Indianapolis,IN,False,attack,Foot,False,"Indianapolis, IN, USA","Indianapolis, Indiana",39.76691000000005,-86.14995999999996
+33,57,Kavonda Earl Payton,2015-01-15,shot,gun,39.0,M,B,Aurora,CO,False,attack,Not fleeing,False,"Aurora, CO, USA","Aurora, Colorado",39.70932000000005,-104.81457999999998
+34,60,Quincy Reed Reindl,2015-01-15,shot,gun,24.0,M,W,Bloomington,MN,True,attack,Not fleeing,False,"Bloomington, MN, USA","Bloomington, Minnesota",44.821120000000064,-93.30553999999995
+35,63,Jose Ceja,2015-01-15,shot,knife,36.0,M,H,Fairfield,CA,True,other,Not fleeing,False,"Fairfield, CA, USA","Fairfield, California",38.24924000000004,-122.04429999999996
+36,64,Nathan Massey,2015-01-15,shot,gun,33.0,M,W,Evangeline Parish,LA,False,attack,Not fleeing,False,"Evangeline Parish, LA, USA","Evangeline Parish, Louisiana",30.72895002100006,-92.40588499999996
+37,67,Scott Hall,2015-01-16,shot,gun,41.0,M,W,Mabank,TX,False,attack,Car,False,"Mabank, TX, USA","Mabank, Texas",32.365440000000035,-96.10101999999995
+38,68,Zaki Shinwary,2015-01-16,shot and Tasered,knife,48.0,M,O,Fremont,CA,False,other,Not fleeing,False,"Fremont, CA, USA","Fremont, California",37.55135000000007,-121.98304999999999
+39,74,Terence Walker,2015-01-17,shot,gun,21.0,M,B,Muskogee,OK,False,attack,Foot,True,"Muskogee, OK, USA","Muskogee, Oklahoma",35.74848000000003,-95.36904999999996
+40,75,Pablo Meza,2015-01-17,shot,gun,24.0,M,H,Los Angeles,CA,False,attack,Not fleeing,False,"Los Angeles, CA, USA","Los Angeles, California",34.05349000000007,-118.24531999999999
+41,78,Daniel Brumley,2015-01-17,shot,knife,27.0,M,H,Fort Worth,TX,False,attack,Not fleeing,False,"Fort Worth, TX, USA","Fort Worth, Texas",32.750950000000046,-97.33085999999997
+42,80,Jonathan Guillory,2015-01-18,shot,gun,32.0,M,W,Maricopa,AZ,True,attack,Not fleeing,False,"Maricopa, AZ, USA","Maricopa, Arizona",33.058700000000044,-112.04800999999998
+43,83,Carter Castle,2015-01-18,shot and Tasered,gun,67.0,M,W,Gunlock,KY,True,attack,Not fleeing,False,"Gunlock, KY, USA","Gunlock, Kentucky",37.56391000000008,-82.92435999999998
+44,84,Paul Campbell,2015-01-19,shot,knife,49.0,M,W,Weymouth,MA,False,attack,Not fleeing,False,"Weymouth, MA, USA","Weymouth, Massachusetts",42.20853000000005,-70.95783999999998
+45,85,Dewayne Carr,2015-01-20,shot,,42.0,M,B,Scottsdale,AZ,False,other,Car,False,"Scottsdale, AZ, USA","Scottsdale, Arizona",33.49400000000003,-111.92068999999998
+46,86,Todd Allen Hodge,2015-01-21,shot,gun,36.0,M,W,Hemet,CA,False,attack,Not fleeing,False,"Hemet, CA, USA","Hemet, California",33.749370000000056,-116.96788999999995
+47,88,Miguel Angel de Santos-Rodriguez,2015-01-21,shot,gun,36.0,M,H,Chapeno,TX,False,attack,Foot,False,"Chapeno, TX, USA","Chapeno Rd, Roma, Texas, 78584",26.547446877655858,-99.14064274659648
+48,90,Isaac Holmes,2015-01-21,shot,gun,19.0,M,B,St. Louis,MO,False,attack,Not fleeing,False,"St. Louis, MO, USA","St Louis, Missouri",38.62775000000005,-90.19955999999996
+49,98,Andrew Toto,2015-01-21,shot,gun,54.0,M,W,Derry,NH,True,attack,Not fleeing,False,"Derry, NH, USA","Derry, Town of Derry, New Hampshire",42.880570000000034,-71.32675999999998
